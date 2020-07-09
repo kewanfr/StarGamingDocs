@@ -30,5 +30,3 @@ description: Changelog du bot
 
 * Bot Public !!
 
-
-
