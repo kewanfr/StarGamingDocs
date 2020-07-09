@@ -5,16 +5,14 @@ description: Plugin de musique
 # Système de Musique
 
 ⚠️**DISCLAIMER**: Le code du plugin de musique ne vient **pas de moi**.  
-Il vient de [Erit Islami](https://github.com/eritislami) dont j'ai récupéré le code, adapté à mon bot et traduit à 100 % !  
-  
+Il vient de [Erit Islami](https://github.com/eritislami) dont j'ai récupéré le code, adapté à mon bot et traduit à 100 % !
+
 Un des plugins disponibles est le plugin de musique, vous pouvez l'activer avec **/params set Music true**.  
 Le plugin nécessite également de définir le rôle que l'utilisateur doit avoir afin d'utiliser les commandes de musique pour le configurer: **/params set DJRole @role**
 
-![](../../.gitbook/assets/image.png)
+![](https://github.com/kewanfr/StarGamingDocs/tree/1a5963a519c207a7566a5c0847feb25a17f38957/.gitbook/assets/image.png)
 
 ## Commandes
-
-
 
 ### 📝 Features & Commands
 
@@ -59,5 +57,5 @@ Le plugin nécessite également de définir le rôle que l'utilisateur doit avoi
 * Command Handler from [discordjs.guide](https://discordjs.guide/)
 * Media Controls via Reactions
 
- [![reactions](https://camo.githubusercontent.com/215429de018592e39dd28d13802405cb02c2a487/68747470733a2f2f692e696d6775722e636f6d2f6a3743657673482e706e67)](https://camo.githubusercontent.com/215429de018592e39dd28d13802405cb02c2a487/68747470733a2f2f692e696d6775722e636f6d2f6a3743657673482e706e67)
+  [![reactions](https://camo.githubusercontent.com/215429de018592e39dd28d13802405cb02c2a487/68747470733a2f2f692e696d6775722e636f6d2f6a3743657673482e706e67)](https://camo.githubusercontent.com/215429de018592e39dd28d13802405cb02c2a487/68747470733a2f2f692e696d6775722e636f6d2f6a3743657673482e706e67)
 

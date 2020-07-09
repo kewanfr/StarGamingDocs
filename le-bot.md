@@ -16,11 +16,9 @@ Sachez que nous ne récupérons en _**aucun cas d'informations personnelles**_, 
 
 ## 🔍Support
 
-Pour tout problème ou suggestion sur le bot, vous pouvez :   
-  
+Pour tout problème ou suggestion sur le bot, vous pouvez :
+
 1. Nous contacter sur notre[ discord officiel](https://discord.gg/AKTCEjQ).  
 2. Si votre problème persiste, vous pouvez nous mp sur discord \(Kewan.exe\#0001 et Delta\#5371\).  
 3. Par email, notre email: **stargaming@kewan.fr**, ou mon email perso: **mail@kewan.fr.**
-
-
 

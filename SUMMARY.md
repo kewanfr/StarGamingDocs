@@ -17,9 +17,7 @@
 
 ## Liens
 
----
-
-* [Changelog](changelog.md)
-* [FAQ](faq.md)
+* [Changelog](liens/changelog.md)
+* [FAQ](liens/faq.md)
 * [Discord officiel](https://discord.gg/AKTCEjQ)
 
