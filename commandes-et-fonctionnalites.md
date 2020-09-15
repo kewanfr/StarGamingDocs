@@ -1,8 +1,8 @@
-# Commandes et Fonctionnalités
+# Features and commands
 
-## Commandes
+## Commands
 
-### Commandes de base
+### Basic commands
 
 {% tabs %}
 {% tab title="Administration" %}
@@ -84,7 +84,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Commandes Plugins \(si activés\)
+### Plugins \(if activated\)
 
 {% tabs %}
 {% tab title="Expérience" %}
