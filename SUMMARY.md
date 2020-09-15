@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Qui sommes Nous ?](README.md)
+* [Who are us ?](README.md)
 * [Le bot](le-bot.md)
 * [Commandes et Fonctionnalités](commandes-et-fonctionnalites.md)
 

@@ -1,11 +1,11 @@
-# Qui sommes Nous ?
+# Who are us ?
 
-## StarGaming, un serveur communautaire et gaming
+## StarGaming, a community and gaming discord server
 
 A l'origine, c'est un [serveur discord](https://discord.gg/AKTCEjQ) communautaire et qui a pour but de rassembler une communauté autour du gaming. Ce serveur à été à l'origine crée par Delta qui en est actuellement l'administrateur.  
 Puis, 1 an plus tard, moi \(Kéwan.exe\) ai rejoint le serveur.
 
-## L'idée du bot
+## Bot Idea
 
 Lors d'une partie de StarCraft, l'idée du bot est arrivée.  
 Je me suis donc mis en tête de créer ce fameux bot !!  
