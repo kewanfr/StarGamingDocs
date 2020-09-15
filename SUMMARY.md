@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Who are us ?](README.md)
-* [Le bot](le-bot.md)
+* [The Dimension Bot](le-bot.md)
 * [Commandes et Fonctionnalités](commandes-et-fonctionnalites.md)
 
 ## Tutoriel : Ajouter et configurer le bot

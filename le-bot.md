@@ -1,4 +1,4 @@
-# Le bot
+# The Dimension Bot
 
 ## Bienvenue ! 💙
 
