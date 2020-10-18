@@ -7,7 +7,7 @@ StarGaming est un bot discord qui vous propose **plusieurs fonctionnalités trè
 🚀 **Un système de bienvenue avec autorole, d'aurevoir, de Musique, de Roles réactions, de Modération avancée, des commandes d'Administration afin de configurer le bot à 100%** et bien d'autres !
 
 🛠 Nous sommes très actifs et ajoutons régulièrement de nouvelles fonctionnalités, selon les idées de la communauté !  
-Pour être informé de tout ce qu'il se passe, rejoignez notre [serveur discord officiel](https://discord.gg/AKTCEjQ).
+Pour être informé de tout ce qu'il se passe, rejoignez notre [serveur discord officiel](https://discord.gg/7ByPgJX).
 
 ## ❗ Informations
 
